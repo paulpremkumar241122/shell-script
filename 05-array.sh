@@ -8,3 +8,6 @@ MOVIES=("SYE" "RRR" "DJ")
 echo " First movie name is: ${MOVIES[0]} "
 echo " Second movie name is: ${MOVIES[1]} "
 echo " All movie names are: ${MOVIES[@]} "
+
+# echo " All movie names are: ${MOVIES[@]} " @ is possible only in array .
+# to show all the content in a list
