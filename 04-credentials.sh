@@ -7,12 +7,17 @@
 
 echo "Please enter Username::"
 
-read USERNAME #here USERNAME is the variable {{if any doubt refer ep-10 , 28min}}
+read -s USERNAME #here USERNAME is the variable {{if any doubt refer ep-10 , 28min}}
 
 echo "Please enter Password::"
 
-read PASSWORD
+read -s PASSWORD
 
 # for checking 
 
 echo "Username is:: ${USERNAME}, Password is:: ${PASSWORD}"
+
+# so this username and password are visible on the terminal inorder to avoid this we can use -s
+
+# read -s 
+
