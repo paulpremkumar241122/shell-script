@@ -10,4 +10,7 @@ echo "${PERSON2}:: Eroju antaa Goppaga m ledu ${PERSON1}"
 echo "so ${PERSON1} & ${PERSON2} both are cotton business magnets"
 echo "${PERSON1} ${PERSON2} both are fail"
 
-# sh 03-arguments.sh Srujana Supraja
+# sh 03-arguments.sh Srujana Karpuram
+
+# $1=Srujana 
+# $2=Karpuram
