@@ -9,3 +9,5 @@ echo "${PERSON1}:: Eroju Collection Enta?"
 echo "${PERSON2}:: Eroju antaa Goppaga m ledu ${PERSON1}"
 echo "so ${PERSON1} & ${PERSON2} both are cotton business magnets"
 echo "${PERSON1} ${PERSON2} both are fail"
+
+# a variable can be passed $VARIABLE and also ${VARIABLE}

@@ -6,3 +6,5 @@ MOVIES=("SYE" "RRR" "DJ")
 # size of array is above 3
 
 echo " First movie name is: ${MOVIES[0]} "
+echo " Second movie name is: ${MOVIES[1]} "
+echo " All movie names are: ${MOVIES[@]} "
