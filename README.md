@@ -11,4 +11,5 @@
 
  # git add . ; git commit -m "any-msg" ; git push origin main
 
+ these all commands will be given in git bash
  
